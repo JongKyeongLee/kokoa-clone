@@ -1,0 +1,24 @@
+.badge {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 300;
+  font-size: x-small;
+}
+.f-badge {
+  background-color: tomato;
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 15px;
+  top: 35px;
+}
